@@ -1,0 +1,8 @@
+## Requirements for VAE
+
+jupyterlab
+numpy
+scikit-image
+pillow
+matplotlib
+opencv-python
